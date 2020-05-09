@@ -1,0 +1,10 @@
+	function validasi() {
+		var username = okky_gnw;
+		var password = Tukim1n_ckp;		
+		if (username != "okky_gnw" && password!="Tukim1n_ckp") {
+			return true;
+		}else{
+			alert('Username dan Password salah');
+			return false;
+		}
+	}

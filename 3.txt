@@ -1,0 +1,13 @@
+var string = "programmer";
+var vowel = "a, i, u, e, o";
+var hasil = string1.length;
+
+
+if (string == vowel) {
+    console.log(hasil);
+}
+else
+    (string != vowel) {
+    console.log("0");
+
+}

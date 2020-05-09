@@ -1,0 +1,36 @@
+{ 
+  "biodata" : [ 
+	{ 
+		"name"		: "Okky Gunawan",
+		"age"		: "20",
+		"alamat"	: "jln. K.H. Wahid hasyim kec. SU 1 Kel. 5 ulu Kota Palembang, Sumatera Selatan",
+		"Hobbies"	: [
+					"Game", "Berenang", "Jalan-jalan"
+				  ],
+		"is_married"	:  false,
+		"list_school"	: [
+			   	    { 
+					"name_school" 	: "man1palembang", 
+					"year_in"	: "2014", 
+					"year_out"	: "2017", 
+					"major"		: "IPS"
+				     },
+				   ],
+		"skills"	: [
+			            { 
+					"skills_name" 	: "editing", 
+					"level"		: "advance"
+				     },
+			            { 
+					"skills_name" 	: "ngoding", 
+					"level"		: "advance"
+				     },
+
+				   ],
+		"interest_in_coding" : true
+	}
+  			]
+}
+
+
+  
